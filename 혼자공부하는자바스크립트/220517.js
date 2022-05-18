@@ -5,10 +5,10 @@
 function sumAll(a,b) {
     let outpput = 0
     for (let i = a; i <= b; i++) {
-        output += i
+        outpput += i
         
     }
-    return output
+    return outpput
 }
 console.log(`1부터 100까지의 합: ${sumAll(1,100)}`);
 console.log(`1부터 500까지의 합: ${sumAll(1,500)}`);
