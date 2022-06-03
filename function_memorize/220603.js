@@ -15,3 +15,6 @@ console.log(arrBinary.reverse().join(""));
 
 // 방법 2
 console.log(dec.toString(2));
+
+
+
